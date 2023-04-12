@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.442b65c9.css",
+    "main.js": "/Portfolio/static/js/main.d9cb7e49.js",
+    "static/media/blog.png": "/Portfolio/static/media/blog.faf9f865b9504edced09.png",
+    "static/media/movieflix.png": "/Portfolio/static/media/movieflix.949b60dc88b86df3030e.png",
+    "static/media/buysell.png": "/Portfolio/static/media/buysell.8044cb5646d31e8869b2.png",
+    "static/media/cplusplus.png": "/Portfolio/static/media/cplusplus.666af1b3598c92045b63.png",
+    "static/media/defin.png": "/Portfolio/static/media/defin.ae204be5918bf019f32e.png",
+    "static/media/php.png": "/Portfolio/static/media/php.aa680f57bf75b5d5acdc.png",
+    "static/media/anomaly.png": "/Portfolio/static/media/anomaly.1de5448b42cb6ae5402d.png",
+    "static/media/heroImage.png": "/Portfolio/static/media/heroImage.016adde611504e7eba52.png",
+    "static/media/java.png": "/Portfolio/static/media/java.fdabd4e11f1235e4e8e0.png",
+    "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/mysql.png": "/Portfolio/static/media/mysql.8bb1f274acafd8505469.png",
+    "static/media/html.png": "/Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "index.html": "/Portfolio/index.html",
+    "main.442b65c9.css.map": "/Portfolio/static/css/main.442b65c9.css.map",
+    "main.d9cb7e49.js.map": "/Portfolio/static/js/main.d9cb7e49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.442b65c9.css",
+    "static/js/main.d9cb7e49.js"
+  ]
+}
