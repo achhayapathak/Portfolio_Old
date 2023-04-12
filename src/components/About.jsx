@@ -13,7 +13,7 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-10 text-gray-400">
+        <p className="text-xl mt-8 text-gray-400">
         Hi, My name is Achhaya Pathak. With a passion for software development, I am currently pursuing my Masters in Mathematics and Computing from IIT Guwahati and I am an upcoming software developer at GIST Impact. In my current project, I am working on the optimal payment split in the Bitcoin Lightning Network. I keep learning about new technologies and in my spare time I like to play flute and tweet irrelevant stuff.
         </p>
 
