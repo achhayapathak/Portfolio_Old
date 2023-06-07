@@ -11,10 +11,10 @@ const Home = () => {
                 I am a Developer
             </h2>
             <p className='text-gray-500 py-4 max-w-md'>
-                Hi, My name is Achhaya Pathak. With a passion for software development, I am currently pursuing my Masters in Mathematics and Computing from IIT Guwahati and I am an upcoming software developer at GIST Impact. In my current project, I am working on optimal payment split in the Bitcoin Lightning Network. If you're interested in learning more about my skills and experience, please take a look at my CV!
+                Hello, I'm Achhaya Pathak, a skilled and dedicated developer with a passion for creating innovative solutions. I recently completed my post-graduation in mathematics and computing from IIT Guwahati, where I gained extensive experience in full-stack application development, deep learning, and blockchain. With expertise in languages such as C/C++, Java, and proficiency in database management using SQL and MongoDB, I am well-equipped to tackle complex technical challenges. If you're interested in learning more about my skills and experience, please take a look at my CV!
             </p>
             <div>
-              <a href="/Resume_Achhaya.pdf" download={true}>
+              <a href="/Achhaya_CV.pdf" download={true}>
                 <button className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer'>
                     Download CV
                     <span className='group-hover:rotate-90 duration-300'>
