@@ -20,7 +20,7 @@ const About = () => {
         <br />
 
         <p className="text-xl text-gray-400">
-        What sets me apart is my drive for continuous learning and staying up-to-date with the latest industry trends. I have a deep-rooted passion for exploring new technologies, from deep learning to blockchain, and leveraging them to build cutting-edge solutions. With a keen eye for detail, I strive to deliver high-quality code that not only meets functional requirements but also exceeds expectations in terms of performance and user experience. Whether it's collaborating with a team or taking ownership of a project, I am dedicated to delivering results that make a meaningful impact. If you're looking for a creative and adaptable developer with a passion for innovation, I would be thrilled to contribute my skills and expertise to your next venture. Feel free to personalize and modify the description to align it with your own style and preferences.
+        What sets me apart is my drive for continuous learning and staying up-to-date with the latest industry trends. I have a deep-rooted passion for exploring new technologies, from deep learning to blockchain, and leveraging them to build cutting-edge solutions. With a keen eye for detail, I strive to deliver high-quality code that not only meets functional requirements but also exceeds expectations in terms of performance and user experience. Whether it's collaborating with a team or taking ownership of a project, I am dedicated to delivering results that make a meaningful impact. If you're looking for a creative and adaptable developer with a passion for innovation, I would be thrilled to contribute my skills and expertise to your next venture.
         </p>
       </div>
     </div>
