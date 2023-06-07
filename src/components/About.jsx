@@ -14,13 +14,13 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-8 text-gray-400">
-        Hi, My name is Achhaya Pathak. With a passion for software development, I am currently pursuing my Masters in Mathematics and Computing from IIT Guwahati and I am an upcoming software developer at GIST Impact. In my current project, I am working on the optimal payment split in the Bitcoin Lightning Network. I keep learning about new technologies and in my spare time I like to play flute and tweet irrelevant stuff.
+        Hey there! I'm Achhaya Pathak, a passionate and skilled developer specializing in creating innovative solutions. With a strong background in software development and a knack for problem-solving, I thrive on tackling complex challenges and turning them into elegant, user-friendly applications. Throughout my journey, I have honed my skills in various programming languages and technologies, allowing me to adapt and excel in diverse projects. I have expertise in full-stack application development, where I seamlessly integrate front-end technologies like HTML, CSS, and ReactJs with back-end frameworks like PHP and databases such as SQL and MongoDB.
         </p>
 
         <br />
 
         <p className="text-xl text-gray-400">
-        I've worked in a variety of fields, including machine learning, blockchain technology, full stack development, and web development. I've worked with a number of programming languages and technologies, including C++, C, Java, Javascript, and Python, as well as React, Tailwind CSS, and streamlit, among others. My experience with databases has been with MySQL and MongoDB. Please communicate with me if any of these technologies intrigues you.
+        What sets me apart is my drive for continuous learning and staying up-to-date with the latest industry trends. I have a deep-rooted passion for exploring new technologies, from deep learning to blockchain, and leveraging them to build cutting-edge solutions. With a keen eye for detail, I strive to deliver high-quality code that not only meets functional requirements but also exceeds expectations in terms of performance and user experience. Whether it's collaborating with a team or taking ownership of a project, I am dedicated to delivering results that make a meaningful impact. If you're looking for a creative and adaptable developer with a passion for innovation, I would be thrilled to contribute my skills and expertise to your next venture. Feel free to personalize and modify the description to align it with your own style and preferences.
         </p>
       </div>
     </div>
